@@ -1,0 +1,16 @@
+
+
+html {
+    body {
+        margin: 0;
+        padding: 0;
+        background: #fff;
+    }
+}
+
+.card-image{
+  max-width: auto;
+  max-height: 10rem;
+  overflow: hidden;
+  object-fit: fill;
+}
